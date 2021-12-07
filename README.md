@@ -16,4 +16,6 @@
 <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
+### My Github Stats:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveira08&theme=tokyonight)
