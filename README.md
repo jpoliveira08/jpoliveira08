@@ -1,7 +1,7 @@
 ## Hi there, I'm João Pedro
 
  - :books: I'm a student of Electrical Engineering
- - :seedling: I'm currently learning Java for mobile development and recently i started with PHP for Web.
+ - :seedling: I'm currently learning Kotlin for mobile development and PHP and JS for web.
 
  ### Connect with me:
 
