@@ -1,7 +1,10 @@
 ## Hi there, I'm João Pedro
 
- - :books: I'm a student of Electrical Engineering
- - :seedling: I'm currently working with PHP and JavaScript and learning Kotlin for mobile.
+Currently, I am a 4th year electrical engineering student at UTFPR (Federal University of Technology – Paraná), where I had my first contact with programming using the language C. At this time I am participating in a University project, which has the objective to build a hardware and software (using Kotlin for the first moment) for mobile devices that allows the user to measure the energy consumed in the residence in real time.
+
+I am currently doing an internship, working as a Full Stack developer using technologies like: Linux, Docker, PHP, Javascript, SQL, HTML, CSS and Bootstrap.
+
+I seek to learn and apply good practicing in code with Clean Code, Object Calisthenics and Design Patterns. My main areas of interest are Backend and Mobile App development.
 
  ### Connect with me:
 
