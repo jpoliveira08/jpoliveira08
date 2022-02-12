@@ -1,6 +1,6 @@
 ## Hi there, I'm João Pedro
 
-Currently, I am a 4th year electrical engineering student at UTFPR (Federal University of Technology – Paraná), where I had my first contact with programming using the language C. At this time I am participating in a University project, which has the objective to build a hardware and software (using Kotlin for the first moment) for mobile devices that allows the user to measure the energy consumed in the residence in real time.
+Currently, I am a 4th year electrical engineering student at UTFPR (Federal University of Technology – Paraná), where I had my first contact with programming using the language C. At this time I am participating in a University project, which has the objective to build a hardware and software (Kotlin/C) for mobile devices that allows the user to measure the real time energy consumed in their house.
 
 I am currently doing an internship, working as a Full Stack developer using technologies like: Linux, Docker, PHP, Javascript, SQL, HTML, CSS and Bootstrap.
 
