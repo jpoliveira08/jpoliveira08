@@ -1,10 +1,12 @@
-## Hi there, I'm João Pedro
+Desenvolvedor de software autodidata e estudante de engenharia elétrica.
 
-I am a 4rd year student in electrical engineering at UTFPR (Federal University of Technology – Paraná), where I had my first contact with programming using the language C. At this time I am participating in a University project, which has the objective to build a hardware and software (Kotlin/C) for mobile devices, that allows the user to measure the real time energy consumed in their house.
+Iniciei minha carreira na tecnologia atuando como suporte técnico e atualmente trabalho como desenvolvedor Full Stack. Nesta posição, lido tanto com o frontend (Javascript, Bootstrap) quanto com o backend (PHP, Laravel) das aplicações.
 
-Also, in the moment I'm doing an internship, working as a Full Stack developer using technologies like: Linux, Docker, PHP, Javascript, SQL, HTML, CSS and Bootstrap.
+Nos últimos meses venho trabalhado intensamente com Laravel e TDD, na reestruturação de aplicações legadas e em projetos pessoais.
 
-I seek to learn and apply good practicing in code with Clean Code, Object Calisthenics and Design Patterns. My main areas of interest are Backend and Mobile App development.
+Possuo experiência trabalhando com metodologias ágeis, versionamento de código (Git) e ambientes dockerizados (Docker).
+
+Sou entusiasta de boas práticas de código, busco aplicar conceitos de SOLID e Object Calisthenics no dia a dia e meu foco principal é no Backend das aplicações.
 
  ### Connect with me:
 
