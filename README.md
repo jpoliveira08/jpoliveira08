@@ -1,12 +1,8 @@
 Desenvolvedor de software autodidata e estudante de engenharia elétrica.
 
-Iniciei minha carreira na tecnologia atuando como suporte técnico e atualmente trabalho como desenvolvedor Full Stack. Nesta posição, lido tanto com o frontend (Javascript, Bootstrap) quanto com o backend (PHP, Laravel) das aplicações.
-
-Nos últimos meses venho trabalhado intensamente com Laravel e TDD, na reestruturação de aplicações legadas e em projetos pessoais.
-
 Possuo experiência trabalhando com metodologias ágeis, versionamento de código (Git) e ambientes dockerizados (Docker).
 
-Sou entusiasta de boas práticas de código, busco aplicar conceitos de SOLID e Object Calisthenics no dia a dia e meu foco principal é no Backend das aplicações.
+Sou entusiasta de boas práticas de código, busco aplicar conceitos de SOLID e Object Calisthenics no dia a dia.
 
  ### Connect with me:
 
