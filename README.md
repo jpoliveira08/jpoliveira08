@@ -1,6 +1,4 @@
-Sou um desenvolvedor de software com ênfase no backend. Iniciei minha carreira com Java, mas desde minha primeira experiência profissional até o momento, venho trabalhando com PHP, durante minha trajetória trabalhei com o framework Laravel. No frontend, trabalho com HTML, CSS e Javascript com experiência nos frameworks Bootstrap e React.js. Utilizo Docker em meus ambientes, e para monitoramento Prometheus + Grafana.
-
-Acredito que estou seguindo o caminho do profissional em < T >, pois apesar de minha especialidade ser no Backend, possuo experiência e interesse nas áreas de DevOps e Frontend.
+Skilled software engineer with a strong background in backend development utilizing PHP, relational databases (MySQL), and non-relational databases (Redis). Experienced in Docker and cloud computing. Adept in frontend technologies including Javascript, HTML, CSS, and proficient in React. Skilled in monitoring and observability with knowledge of Prometheus and Grafana. With almost 2 years of experience, I am committed to delivering high-quality solutions to challenging projects.
 
  ### Connect with me:
 
