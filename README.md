@@ -1,4 +1,4 @@
-Skilled software engineer with a strong background in backend development utilizing PHP, relational databases (MySQL), and non-relational databases (Redis). Experienced in Docker and cloud computing. Adept in frontend technologies including Javascript, HTML, CSS, and proficient in React. Skilled in monitoring and observability with knowledge of Prometheus and Grafana. With almost 2 years of experience, I am committed to delivering high-quality solutions to challenging projects.
+Skilled software engineer with a strong background in backend development utilizing PHP, relational databases (MySQL). Experienced in Docker and cloud computing. Adept in frontend technologies including Javascript, HTML, CSS, and proficient in React. Skilled in monitoring and observability with knowledge of Prometheus and Grafana. With almost 2 years of experience, I am committed to delivering high-quality solutions to challenging projects.
 
  ### Connect with me:
 
