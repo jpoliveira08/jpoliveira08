@@ -1,4 +1,10 @@
-Skilled software engineer with a strong background in backend development utilizing PHP, relational databases (MySQL). Experienced in Docker and cloud computing. Adept in frontend technologies including Javascript, HTML, CSS, and proficient in React. Skilled in monitoring and observability with knowledge of Prometheus and Grafana. With almost 2 years of experience, I am committed to delivering high-quality solutions to challenging projects.
+Software engineer with 2 years of experience in web development, with an emphasis on backend but also working on frontend when needed.
+
+Currently, I focus on development using PHP, where I've had the opportunity to use frameworks such as Laravel and Symfony, while for frontend, I mostly use Javascript, HTML, and CSS. I also perform some Q.A. functions.
+
+Furthermore, I'm deepening my knowledge in the Javascript ecosystem as I'm developing my thesis using Node.js, React, and React Native to build a real-time energy consumption monitoring solution.
+
+Skills: PHP, Laravel, Symfony, Javascript, Typescript, Node.js, MySQL, Docker, Git, Linux, and Agile methodologies.
 
  ### Connect with me:
 
@@ -6,11 +12,15 @@ Skilled software engineer with a strong background in backend development utiliz
 
 ### Languages & Tools:
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
