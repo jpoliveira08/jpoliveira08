@@ -1,12 +1,4 @@
-I have 3 years of experience in software development, with a focus on web technologies, primarily using PHP and JavaScript. I hold a degree in Electrical Engineering from the Federal Technological University of Paraná (UTFPR).
-
-Throughout these years, I have worked on both cloud-based solutions, primarily with AWS, and on-premises projects. In my professional experiences, I have worked with proprietary frameworks and Laravel for backend development. In personal projects, I have developed applications using React for the frontend. I also have experience with agile methodologies, including Scrum and Kanban.
-
-During my undergraduate studies, I developed embedded software in C, integrated hardware with web software for my thesis, and worked on data analysis projects using Python.
-
 I have a strong interest in open-source projects and using technology to address everyday problems. Additionally, my background in Electrical Engineering has fostered a keen interest in the energy market.
-
-Skills: PHP, Laravel, Javascript, jQuery, Bootstrap, HTML, CSS, Node.js, MySQL, Docker, AWS, Git, Github, Bitbucket, Linux, C, Python, Scrum and Kanban.
 
  ### Connect with me:
 
